@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "XaoOpomclrfmYs8CfBAgL4Jdp22YkTLyj9OOcbJN+HBPt3X7msY6iNPUPnviOzjhidoF/4oMjAJktckdoUBJyg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Argolo1\\source\\repos\\Questao_01\\Questao_01\\Questao_01.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Argolo1\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.12\\microsoft.netcore.app.host.win-x64.5.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}

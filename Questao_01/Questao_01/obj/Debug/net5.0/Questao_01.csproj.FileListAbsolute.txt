@@ -1,0 +1,16 @@
+C:\Users\Argolo1\source\repos\Questao_01\Questao_01\bin\Debug\net5.0\Questao_01.exe
+C:\Users\Argolo1\source\repos\Questao_01\Questao_01\bin\Debug\net5.0\Questao_01.deps.json
+C:\Users\Argolo1\source\repos\Questao_01\Questao_01\bin\Debug\net5.0\Questao_01.runtimeconfig.json
+C:\Users\Argolo1\source\repos\Questao_01\Questao_01\bin\Debug\net5.0\Questao_01.runtimeconfig.dev.json
+C:\Users\Argolo1\source\repos\Questao_01\Questao_01\bin\Debug\net5.0\Questao_01.dll
+C:\Users\Argolo1\source\repos\Questao_01\Questao_01\bin\Debug\net5.0\ref\Questao_01.dll
+C:\Users\Argolo1\source\repos\Questao_01\Questao_01\bin\Debug\net5.0\Questao_01.pdb
+C:\Users\Argolo1\source\repos\Questao_01\Questao_01\obj\Debug\net5.0\Questao_01.csproj.AssemblyReference.cache
+C:\Users\Argolo1\source\repos\Questao_01\Questao_01\obj\Debug\net5.0\Questao_01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Argolo1\source\repos\Questao_01\Questao_01\obj\Debug\net5.0\Questao_01.AssemblyInfoInputs.cache
+C:\Users\Argolo1\source\repos\Questao_01\Questao_01\obj\Debug\net5.0\Questao_01.AssemblyInfo.cs
+C:\Users\Argolo1\source\repos\Questao_01\Questao_01\obj\Debug\net5.0\Questao_01.csproj.CoreCompileInputs.cache
+C:\Users\Argolo1\source\repos\Questao_01\Questao_01\obj\Debug\net5.0\Questao_01.dll
+C:\Users\Argolo1\source\repos\Questao_01\Questao_01\obj\Debug\net5.0\ref\Questao_01.dll
+C:\Users\Argolo1\source\repos\Questao_01\Questao_01\obj\Debug\net5.0\Questao_01.pdb
+C:\Users\Argolo1\source\repos\Questao_01\Questao_01\obj\Debug\net5.0\Questao_01.genruntimeconfig.cache
